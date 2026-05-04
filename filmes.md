@@ -1,13 +1,12 @@
 # Lista de 10 melhores filmes
 
-- Poderoso chefão
-- Poderoso chefão parte 2
-- Scarface
-- StarWars episodio V
-- Duna
-- Pianista
-- 1917
-- Era uma vez em Hollywood
-- F1
-- Duna parte 2
-- Bons companheiros
+- Requiem para um sonho
+- Bastardos inglórios
+- O pianista
+- OldBoy
+- Memorias de um assasino
+- Parasita
+- Era uma vez em hollywood
+- Corações de Ferro
+- Django livre 
+- KillBill
